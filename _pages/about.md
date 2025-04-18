@@ -1,49 +1,57 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hello!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+<p align="justify">
+I'm Aldhi (someone call me Agung), a mathematics enthusiast who live in Sragen, Central Java, Indonesia. I'm currently working at SMA Trensains Muhammadiyah Sragen as a 10th grade math teacher since 1 July 2024.
+</p>
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+![It's me!](/images/me.jpg){: .align-center width="500px"}
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
-**Markdown generator**
+<p align="justify">
+I started to enjoy studying mathematics since junior high school. Unfortunately, I hadn’t joined any math competitions at that time. I was one of those so-called "late bloomers" when it came to entering the world of math olympiads. I only got involved in math olympiads when I was in 10th grade of high school. From that moment on, I actively looked for various math competitions, whether organized by universities or government institutions. Long story short, I achieved my first award when I was in 12th grade. Imagine that—winning only when I was already at the edge of graduation. That competition, where I won first place, was held by the Mathematics Student Association of Universitas Widya Dharma, Klaten in 2018 and was a regional-level contest for the former Surakarta Residency.
+</p>
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+![My first trophy in math olympiad!](/images/juaraperdana.jpg){: .align-left width="350px"}
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+![My first trophy in math olympiad!](/images/juarapertama.jpg){: .align-right width="350px"}
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+
+<br>
+
+
+<p align="justify">
+Later, after being accepted as an undergraduate student in Mathematics at Universitas Gadjah Mada in 2019 through the government-funded Bidikmisi scholarship, I actively worked as a teaching assistant and grader. One of my responsibilities was to assess and give feedback on students’ work in the "Introduction to Number Theory" course. In addition, I was also involved in research with a lecturer in the field of Number Theory, focusing on the Theory of Integer Partitions. Alhamdulillah, before officially graduating, I managed to publish my very first paper in the Journal of Mathematics UNP by Universitas Negeri Padang.
+</p>
+
+
+
+<p align="justify">
+To cut a long story short, after graduating in May 2023, I worked as a freelance master teacher of mathematics at Ruangguru. Then, in June 2024, I started working at SMA Trensains Muhammadiyah Sragen as a mathematics teacher for 10th-grade students, and I’m still working there to this day. With persistence and patience, I finally achieved one of my dreams: buying an ASUS TUF GAMING A15 laptop using the savings from my own work, without asking for a single penny from my parents. Besides the laptop, I also bought a Samsung Galaxy Tab 9 FE+ to support my online teaching via Zoom. Furthermore, I’m also actively tutoring mathematics both offline (sometimes at my house, sometimes at the student’s house) and online via zoom, covering school mathematics, UTBK-SNBT preparation, and math olympiads at both national and international levels.
+</p>
+
+
+![Buying tab with my dad at Singosaren, Solo!](/images/beliTAB.jpg){: .align-center width="500px"}
+
+
+
+<p align="justify">
+For my future plan, I will continue my Master's studies at UGM, majoring in Mathematics. I aspire to become a Mathematics lecturer, whether at a private or public university—what matters most is gaining experience early on. My target is to become a mathematics lecturer at Universitas Gadjah Mada. If that’s not yet possible, I would still be very grateful to teach at Universitas Sebelas Maret. Therefore, I need to read as much and as diligently as possible, especially scientific articles, to support my future research during my studies. To me, mathematics is not just a subject; it’s a way of thinking. It trains the mind to be logical, critical, and precise. My mission is to help students see the beauty in math, to enjoy the process of learning, and to become confident problem solvers. Through my teaching, I hope to inspire the next generation to embrace mathematics as a powerful tool for both academic success and life, especially for my country, Indonesia.
+</p>
+
+
+FAQ
+=========
+<p align="justify"> Q: What is your favorite fruit? </p>
+<p align="justify"> A: Avocado. </p>
