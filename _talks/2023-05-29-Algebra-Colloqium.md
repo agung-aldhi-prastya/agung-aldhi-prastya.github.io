@@ -2,7 +2,7 @@
 title: "Algebra Colloqium"
 collection: talks
 type: "Presentation"
-permalink: /talks/
+permalink: /talks/2023-05-29-Algebra-Colloqium.md
 venue: "Meeting Room 1, 3rd Floor of the Department of Mathematics, Faculty of Mathematics and Natural Sciences, Universitas Gadjah Mada"
 date: 2023-05-29
 location: "Yogyakarta, Indonesia"
