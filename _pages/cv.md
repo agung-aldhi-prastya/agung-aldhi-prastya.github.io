@@ -13,7 +13,7 @@ Education
 ======
 * B.Sc. in Mathematics, Universitas Gadjah Mada, 2023
 
-Work experience
+Employment History
 ======
 * July 2024 - June 2025: Tenth Grade Mathematics Teacher
   * SMA Trensains Muhammadiyah Sragen, Central Java, Indonesia
@@ -42,19 +42,6 @@ Work experience
 * August 2019 - present: Freelance Mathematics Problem Writer and Reviewer
   * POSI (Pelatihan Olimpiade Sains Indonesia) / Indonesian Science Olympiad Center, Medan, North Sumatra, Indonesia
   * Duties included: Create math olympiad problems for a tryout based on the latest OSN syllabus.
-
-
-  
-Skills
-======
-* LaTeX
-* Microsoft Office:
-  * Word
-  * Excel
-  * Power Point
-* Python
-* Teaching
-* Writing
 
 
 Publications
