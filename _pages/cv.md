@@ -11,35 +11,51 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.Sc. in Mathematics, Universitas Gadjah Mada, 2023
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* July 2024 - June 2025: Tenth Grade Mathematics Teacher
+  * SMA Trensains Muhammadiyah Sragen, Central Java, Indonesia
+  * Duties included: Develop lesson plans, teaching materials, and assessments aligned with the learning objectives; integrate technology and scientific approaches in mathematics learning to support the Trensains (Pesantren Sains) program; develop lesson plans, teaching materials, and assessments aligned with the learning objectives; integrate technology and scientific approaches in mathematics learning to support the Trensains (Pesantren Sains) program.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* July 2023 - present: Master Teacher of Mathematics
+  * Brain Academy Center at Ruangguru Sragen, Central Java, Indonesia
+  * Duties included: Teaching UTBK (Computer-Based Written Examination) classes for 12th-grade students as preparation for the National Test-Based Selection (SNBT) for admission to public universities focus on the Quantitative Knowledge (Pengetahuan Kuantitatif) and Mathematical Reasoning (Penalaran Matematika) subtests.
+    
+* May 2023: present: Freelance Online (Zoom meeting) and Offline Mathematics Tutors
+  * Self Employed at Sragen, Central Java, Indonesia
+  * Duties included: Teaching UTBK (Computer-Based Written Examination) classes for 12th-grade students as preparation for the National Test-Based Selection (SNBT) for admission to public universities focus on the Quantitative Knowledge (Pengetahuan Kuantitatif) and Mathematical Reasoning (Penalaran Matematika) subtests; teaching mathematics olympiad preparation; teach school-level mathematics in accordance with the national curriculum and the academic standards of the institution.
+    
+* August 2022 - February 2023: Grader for Elementary Number Theory Course
+  * Dept. of Mathematics, Faculty of Mathematics and Natural Sciences, Universitas Gadjah Mada, Yogyakarta, Indonesia
+  * Duties included: Assist the course lecturer in evaluating and grading student assignments, quizzes, and exams related to Number Theory; provide constructive feedback to help students understand their mistakes and improve their understanding of Number Theory concepts.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* June 2022 - May 2023: Assistant Lecturer in Research of Integer Partitions
+  * Algebra Research Group, Dept. of Mathematics, Faculty of Mathematics and Natural Sciences, Universitas Gadjah Mada, Yogyakarta, Indonesia
+  * Duties included: Assist the lead researcher or supervising lecturer in conducting research related to Integer Partitions within the field of Number Theory; develop and verify mathematical proofs, generate examples, and analyze patterns related to partition identities and functions; utilize mathematical software (Maple, Wolfram Alpha, and Python) to perform symbolic computations and numerical experiments.
+
+* February 2020 - January 2024: Mathematics Olympiad Problem Writer for LMNas (Lomba Matematika Nasional) UGM
+  * Dept. of Mathematics, Faculty of Mathematics and Natural Sciences, Universitas Gadjah Mada, Yogyakarta, Indonesia
+  * Duties included: Collaborate with a team to create draft problems for mathematics competitions; participate in discussions to review, select, and finalize problems that will be included in the official competition set.
+
+* August 2019 - present: Freelance Mathematics Problem Writer and Reviewer
+  * POSI (Pelatihan Olimpiade Sains Indonesia) / Indonesian Science Olympiad Center, Medan, North Sumatra, Indonesia
+  * Duties included: Create math olympiad problems for a tryout based on the latest OSN syllabus.
+
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* LaTeX
+* Microsoft Office:
+  * Word
+  * Excel
+  * Power Point
+* Python
+* Teaching
+* Writing
+
 
 Publications
 ======
@@ -58,7 +74,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
