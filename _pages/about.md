@@ -54,9 +54,10 @@ For my future plan, I will continue my Master's studies at UGM, majoring in Math
 
 <p align="justify">
 Last, but not least. I have a present for you...
+</p>
+
 
 ![Emas KTOM Maret 2k25!](/images/emasMaret2025.jpg){: .align-center width="500px"}
-</p>
 
 
 FAQ
