@@ -56,13 +56,3 @@ Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
   </ul>
-
-
-Portfolio
-======
-  <ul>
-    {% for post in site.portfolio reversed %}
-  </ul>
-
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
