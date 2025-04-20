@@ -17,8 +17,17 @@ Education
 
 Awards and Involvement in Math Competitions
 ======
-Due to limitations of time and space (for writing), you may check the full details at the following link: [my CV](https://github.com/agung-aldhi-prastya/agung-aldhi-prastya.github.io/blob/master/files/CV_ALDHI.pdf).
-
+Due to limitations of time, you may check the full details at the following link: [my CV](https://github.com/agung-aldhi-prastya/agung-aldhi-prastya.github.io/blob/master/files/CV_ALDHI.pdf). 
+The following are some of my highest achievements:
+* 2025
+  * **Gold Award: March Edition**, [_Kontes Terbuka Olimpiade Matematika_](https://ktom-tomi.or.id/contests/140-kto-matematika-maret-2025), held by Indonesian Mathematics Olympiad Team for all age groups and educational backgrounds.
+  * **Silver Award: February Edition**, [_Kontes Terbuka Olimpiade Matematika_](https://ktom-tomi.or.id/contests/139-kto-matematika-februari-2025), held by Indonesian Mathematics Olympiad Team for all age groups and educational backgrounds
+  * **Silver Award: January Edition**, [_Kontes Terbuka Olimpiade Matematika_](https://ktom-tomi.or.id/contests/138-kto-matematika-januari-2025), held by Indonesian Mathematics Olympiad Team for all age groups and educational backgrounds.
+* 2019
+  * **Top 5% Finalist (Team)**, _Sanata Dharma Calculus League_, held by Universitas Sanata Dharma for undergraduate students.
+* 2018
+  * **1st place**, _Lomba Matematika se-eks Karesidenan Surakarta_, held by Universitas Widya Dharma for senior high school students.
+  * **Finalist**, _Mathematics Olympiad_, held by Universitas Islam Sultan Agung for senior high school students.
 
 
 
