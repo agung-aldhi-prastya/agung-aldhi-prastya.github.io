@@ -55,4 +55,3 @@ Talks
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
-  </ul>
