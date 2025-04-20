@@ -51,7 +51,15 @@ For my future plan, I will continue my Master's studies at UGM, majoring in Math
 </p>
 
 
+
+<p align="justify">
+Last, but not least. I have a present for you...
+
+![Emas KTOM Maret 2k25!](/images/emasMaret2025.jpg){: .align-center width="500px"}
+</p>
+
+
 FAQ
 =========
-<p align="justify"> Q: What is your favorite fruit? </p>
-<p align="justify"> A: Avocado. </p>
+<p align="justify"> Q: What is your favorite drink? </p>
+<p align="justify"> A: Iced avocado smoothie. </p>
