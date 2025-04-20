@@ -17,7 +17,7 @@ Education
 
 Awards and Involvement in Math Competitions
 ======
-Due to limitations of time and space (for writing), you may check the full details at the following link: [my CV.]([https:github.com/agung-aldhi-prastya.github.io/files](https://github.com/agung-aldhi-prastya/agung-aldhi-prastya.github.io/blob/master/files/CV_ALDHI.pdf))
+Due to limitations of time and space (for writing), you may check the full details at the following link: [my CV.](https:github.com/agung-aldhi-prastya.github.io/files](https://github.com/agung-aldhi-prastya/agung-aldhi-prastya.github.io/blob/master/files/CV_ALDHI.pdf)
 
 
 
