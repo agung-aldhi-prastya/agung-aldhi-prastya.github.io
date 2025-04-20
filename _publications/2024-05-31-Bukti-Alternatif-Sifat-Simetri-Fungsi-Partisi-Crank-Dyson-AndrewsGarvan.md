@@ -12,8 +12,8 @@ bibtexurl:
 citation: 'Prastya, A. A., Hatma, C. P. L. J., & Isnaini, U. (2024). Bukti Alternatif Sifat Simetri Fungsi Partisi Crank Dyson-Andrews-Garvan. <i>Jurnal Matematika Integratif</i>, 20(1), 47-62.'
 ---
 <p align="justify">
-A partition of a positive integer n is a non-increasing sequence of finite
-positive integers whose sum is n. One area studied by several researchers
+A partition of a positive integer $n$ is a non-increasing sequence of finite
+positive integers whose sum is $n$. One area studied by several researchers
 in the partition of integers is the crank partition function. For every
 positive integer n and a partition x of n, the crank of x is defined as the
 largest summand in x when x does not include a summand of 1; or as
