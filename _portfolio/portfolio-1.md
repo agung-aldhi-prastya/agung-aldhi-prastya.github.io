@@ -1,6 +1,6 @@
 ---
 title: "Booklet KMNR 20 dan OGM 10 SMA Babak Final 2025"
-excerpt: Contains problems and solutions from the Olimpiade Guru Matematika 10 and Kompetisi Matematika Nalaria Realistik 20: Final Rounds held by Klinik Pendidikan MIPA (KPM). Provided in **bahasa** only.
+excerpt: Contains problems and solutions from the Olimpiade Guru Matematika 10 and Kompetisi Matematika Nalaria Realistik 20 Final Rounds held by Klinik Pendidikan MIPA (KPM). Provided in **bahasa** only.
 <br/><img src='/images/500x300.png'>"
 collection: portfolio
 date: 2025-05-14
