@@ -19,7 +19,7 @@ main:
 
 
   - title: "CV"
-  url: /cv/
+    url: /cv/
 
   #- title: "Teaching"
   #  url: /teaching/    
